@@ -1,0 +1,10 @@
+.scrollspySite {
+    position: relative;
+    overflow: auto;
+    height: 380px;
+}
+
+.jumbotron {
+    padding-top: 1%;
+    padding-bottom: 1%;
+}
